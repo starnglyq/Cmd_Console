@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1490190308 source:e:\c语言编程\codeblocks\c\dos命令\dos.c
+	"Dos.h"
+
+1490185930 e:\c语言编程\codeblocks\c\dos命令\dos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1490190520 source:e:\c语言编程\codeblocks\c\dos命令\main.c
+	"Dos.h"
+
+1490259302 source:e:\c语言编程\codeblocks\c\dos命令控制台\main.c
+	"Dos.h"
+
+1490185930 e:\c语言编程\codeblocks\c\dos命令控制台\dos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1490259215 source:e:\c语言编程\codeblocks\c\dos命令控制台\dos.c
+	"Dos.h"
+
